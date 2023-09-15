@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FormDataRequest</string>
+    <string name="gallery">Gallery</string>
+    <string name="camera">Camera</string>
+    <string name="product_thumbnail_image">Product thumbnail image</string>
+    <string name="description">Description</string>
+    <string name="save">Save</string>
+</resources>
